@@ -1,0 +1,8 @@
+{
+	"nome": {
+		"primeiro_nome": "John",
+		"ultimo_nome": "Doe"
+		},
+	"CPF": "12345678900",
+	"email": "john@example.com"
+}
